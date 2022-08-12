@@ -1,0 +1,10 @@
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\bin\Debug\netcoreapp3.1\Negocio.deps.json
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\obj\Debug\netcoreapp3.1\Negocio.csproj.AssemblyReference.cache
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\obj\Debug\netcoreapp3.1\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfoInputs.cache
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\obj\Debug\netcoreapp3.1\Negocio.AssemblyInfo.cs
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\obj\Debug\netcoreapp3.1\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\obj\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Negócio\obj\Debug\netcoreapp3.1\Negocio.pdb

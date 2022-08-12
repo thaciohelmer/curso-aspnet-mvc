@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N0pa+LLJP1yDUvl7lAvsSy7jmIdpDsAcfrMu3bQEXyWws7LL+kkVThhOHMhAlknWJU/TCTxEJs3PlrAN9RhZnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thacio.helmer\\source\\repos\\LocadoraDeCarros\\Apresentação\\LocadoraDeCarros\\LocadoraDeCarros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thacio.helmer\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\thacio.helmer\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

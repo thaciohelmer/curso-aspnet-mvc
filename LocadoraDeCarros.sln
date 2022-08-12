@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Apresentação", "01 - Apresentação", "{D780F3F0-0144-431F-8CDD-BAB239BAF60E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocadoraDeCarros", "Apresentação\LocadoraDeCarros\LocadoraDeCarros.csproj", "{6D03EECC-8C7C-4FC9-8E5F-F4EE8705BADE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Negócio", "02 - Negócio", "{451B5A2F-2A2B-4189-855C-D0E8A4BDAB11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Dados", "03 - Dados", "{5ABC17E6-EE46-4FB3-8821-6DF396C1F0A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D03EECC-8C7C-4FC9-8E5F-F4EE8705BADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D03EECC-8C7C-4FC9-8E5F-F4EE8705BADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D03EECC-8C7C-4FC9-8E5F-F4EE8705BADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D03EECC-8C7C-4FC9-8E5F-F4EE8705BADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6D03EECC-8C7C-4FC9-8E5F-F4EE8705BADE} = {D780F3F0-0144-431F-8CDD-BAB239BAF60E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {904AE19B-E630-4B49-A8EB-991073A29D9B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\bin\Debug\netcoreapp3.1\Dados.deps.json
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\bin\Debug\netcoreapp3.1\Dados.dll
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\bin\Debug\netcoreapp3.1\Dados.pdb
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\obj\Debug\netcoreapp3.1\Dados.csproj.AssemblyReference.cache
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\obj\Debug\netcoreapp3.1\Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\obj\Debug\netcoreapp3.1\Dados.AssemblyInfoInputs.cache
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\obj\Debug\netcoreapp3.1\Dados.AssemblyInfo.cs
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\obj\Debug\netcoreapp3.1\Dados.csproj.CoreCompileInputs.cache
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\obj\Debug\netcoreapp3.1\Dados.csproj.CopyComplete
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\obj\Debug\netcoreapp3.1\Dados.dll
+C:\Users\thacio.helmer\source\repos\LocadoraDeCarros\Apresentação\Dados\obj\Debug\netcoreapp3.1\Dados.pdb
